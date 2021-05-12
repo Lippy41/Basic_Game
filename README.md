@@ -3,7 +3,4 @@ Short and simple game programmed in python using pygame. The user is a rectangle
 The speed of the enemies and user increase over time.
 
 Controls: 
-W (Move Up)
-A (Move Left)
-S (Move Down)
-D (Move Right)
+W (Move Up), A (Move Left), S (Move Down), D (Move Right)
